@@ -6,6 +6,8 @@ For once all ran well on my machine. Perhaps I can start my project now?
 
 Yet to understand where data is saved, where the files will be saved in the end when its fully developed.
 
+IF YOU GUYS ARE DOWNLOADING THIS, MY NODE_MODULES ABOVE IS NOT COMPLETE. so install this. 
+
 http://localhost:3000/
 Metamask need to be installed
 
